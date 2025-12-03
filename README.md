@@ -17,7 +17,7 @@ I enjoy building, securing, and exploring technology at every layer — from wri
 
 ### 🏆 TryHackMe Progress
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4703680" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/tenucki.png" alt="Your Image Badge" />
 
 ---
 
